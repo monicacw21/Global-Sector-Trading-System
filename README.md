@@ -1,5 +1,8 @@
 # Global-Sector-Trading-System
 This is a trading system with the same methodologies of Meb Faber's, but applied to global sector etfs. 
+
+
+
 ![GlobalSectors](https://github.com/monicacw21/Global-Sector-Trading-System/assets/101022450/0b788e1a-5638-4a34-b9fc-8ba19175d58d)
 Source: www.portfoliovisualizer.com
 
